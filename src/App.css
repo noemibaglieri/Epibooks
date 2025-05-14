@@ -4,5 +4,14 @@ ul {
 }
 
 .footer-title {
-  color: paleturquoise;
+  color: rgb(86, 146, 146);
 }
+
+.book-cover {
+  height: 35rem;
+}
+
+/* .card-img {
+  height: "400px";
+  object-fit: "cover";
+} */

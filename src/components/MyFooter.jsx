@@ -3,11 +3,11 @@ import { Instagram, Linkedin, TwitterX } from "react-bootstrap-icons";
 
 const MyFooter = function () {
   return (
-    <Container>
-      <Row xs={1} md={2} lg={3} className="text-center">
+    <Container className="my-4 ">
+      <Row xs={1} md={2} lg={3} className="text-right">
         <Col>
           <h5 className="footer-title">Resta aggiornato</h5>
-          <ul className="d-flex gap-2 justify-content-center">
+          <ul className="d-flex gap-2 justify-content-left">
             <li>
               <Linkedin />
             </li>
